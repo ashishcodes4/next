@@ -5,3 +5,4 @@ To run locally:
 - run ```npm install```
 - run ```npm run dev```
 
+Ideally this is not meant to be cloned and used, this is partcularly for self learning and understanding NextJS.
