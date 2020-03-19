@@ -1,0 +1,2 @@
+#ignore node modules, run `npm install` when cloning and installing
+node_modules
